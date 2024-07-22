@@ -52,8 +52,8 @@ Portfolio optimization is the process of selecting the best portfolio (asset dis
 
 ---
 
-## Steps to Run the Project
+## Prerequisites
 
-### 1. Install Necessary Libraries
+### Install Necessary Libraries
 ```python
 !pip install pandas numpy matplotlib scipy scikit-learn pyportfolioopt
